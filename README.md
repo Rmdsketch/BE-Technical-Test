@@ -39,7 +39,7 @@ const sentences = [
 3. Open the terminal in the project directory and run:
 
 ```bash
-node index.js
+node main.js
 ```
 
 You should see the output printed in the console.
